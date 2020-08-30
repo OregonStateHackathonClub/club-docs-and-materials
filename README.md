@@ -55,47 +55,101 @@ This is general information for hackathon club management.
   * There must be judges lined up for the hackathon
   * Participants must be registered as teams and/or individually
   * Funding for the hackathon must be secured
-###### Suggested planning schedule
-  1. Early stage planning (2-3 months before event)
-     * begin looking for judges
-     * set up hackathon devpost site and publish it
-     * submit event plan to Ideal-logic (with Secretary)
-     * submit funding request for hackathon (with Treasurer)
-     * Create free agent and team registration forms (with Secretary)
-     * begin advertising and collecting registrants (with Communications Coordinator)
-     * determine a theme (if any)
-  2. Middle stage planning (1 week - 2 months before event)
-     * find for judges until there are at least 3, preferably 5+
-     * set up all "extras" (workshops, mentors, sponsors)
-     * continue advertising hackathon and collecting registrants
-       * EECS Weekly News emails
-       * Add hackathon to university calendar
-  3. Late stage planning (5 days before event)
-     * stop collecting event registrations
-     * cross-reference participants signed up with a team with the free agents list to determine those that are still free agents
-     * get positive or negative confirmation for all free agents that they still plan to participate (assume non-response is negative confirmation)
-     * assign free agents to teams
-       * assume those eligible to compete as new students want to compete on new student teams
-       * assume undergraduate teams do not want to be paired with any graduate/alumni team members (which would disqualify them for prizes)
-       * try to match other preferences reasonably well
-       * notify assigned team mates of who their team mates are, have them fill out team registration form
-     * send courtesy email to judges reminding them of expected schedule
-  4. During-event maintenance and planning
-     * monitor Slack and devpost for questions
-     * make sure club leadership is actively participating on Slack, drum up conversations etc
-     * make sure mentors, demonstrations, workshops, etc.. happen as scheduled
-     * prepare a meeting room for presenations (such as on Zoom or WebEx)
-  5. Post-event wrap-up
-     * host presentations meeting
-     * set up judging forms for teams that completed projects
-     * send judging forms and any presentation video(s) to judges
-     * monitor judging process, nudge judges as necessary
-     * when all scores are in...
-       * determine winners
-       * quadruple-check all scores, team statuses, eligibility, etc...
-       * mark winners on devpost
-       * announce winners
-       * pass winners' contact information (ONIDs) on to faculty sponsor for prizes processing
+###### Suggested hackathon planning and execution schedule
+<table>
+ <thead>
+  <tr>
+   <td>Planning stage</td>
+   <td>Timing</td>
+   <td>Items</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Early stage planning</td>
+   <td>2-3 months before</td>
+   <td>
+    <ul>
+     <li>begin looking for judges</li>
+     <li>set up hackathon devpost site and publish it</li>
+     <li>submit event plan to Ideal-logic (Secretary)</li>
+     <li>determine a theme (if any)</li>
+     <li>submit funding request form for prizes (Treasurer)</li>
+     <li>create free agent and team registration forms (Secretary)</li>
+     <li>begin advertising and collecting registrants (Communications Coordinator</li>
+    </ul>
+   </td>
+  </tr>
+   <tr>
+   <td>Middle stage planning</td>
+   <td>1 wk - 2 months before</td>
+   <td>
+    <ul>
+     <li>confirm 3+ judges (preferably 5+)</li>
+     <li>set up all "extras" (workshops, mentors, sponsors)</li>
+     <li>continue advertising hackathon and collecting registrants</li>
+      <ul>
+       <li>EECS Weekly News emails</li>
+       <li>University calendar</li>
+      </ul>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+  <td>Late stage planning</td>
+   <td>5 days before</td>
+   <td>
+    <ul>
+     <li>stop collecting event registrations</li>
+     <li>determine list of free agents</li>
+     <li>get positive confirmation of all free agents plans to participate</li>
+     <li>assign free agents to teams</li>
+     <li>send courtesy email to judges reminding them of expected schedule</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>During-event maintenance</td>
+   <td>during hackathon</td>
+   <td>
+    <ul>
+     <li>monitor slack and devpost for questions/issues</li>
+     <li>make sure mentors, demonstrations, workshops, etc... happen as scheduled</li>
+     <li>prepare a meeting room for presentations (such as on Zoom or WebEx)</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Post-event wrap-up</td>
+   <td>0-7 days after</td>
+   <td>
+    <ul>
+     <li>host presentations meeting</li>
+     <li>set up judging forms</li>
+     <li>send judging forms and presentation video(s) to judges</li>
+     <li>monitor judging process to ensure timely completion</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <td>After judging</td>
+   <td>7 days after</td>
+   <td>
+    <ul>
+     <li>tabulate judges' scores</li>
+     <li>make sure everything is correct (teams categories, scores, etc..)</li>
+     <li>set winners on devpost</li>
+     <li>announce winners</li>
+     <li>send winners' contact info to club academic sponsor to process prizes</li>
+    </ul>
+   </td>
+  </tr>  
+ </tbody>
+ </table>
+   
+
+ 
+
 ##### Devpost
  * Devpost is where the OSU Hackathon Club has traditionally hosted its hackathons https://www.devpost.com
  * An example of a recent club hackathon can be found [here](https://beaverhacks-fall-2020.devpost.com)
