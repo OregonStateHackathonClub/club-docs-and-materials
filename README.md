@@ -16,12 +16,13 @@ This README contains policies and information for the OSU Hackathon Club officer
 # Guide for General Club Management
 This is general information for hackathon club management.
 ### Policies and guidelines for officers
-  * All officers are expected to abide by the Oregon State University Code of Conduct in all interactions with each other,  …all club members, all club activity participants, and everybody they interact with while on club business.
-  * Hackathon Club responsibilities should not detract from an officer's academic performance, physical or mental health, family life, social wellness, etc... If an officer feels their responsibilities are overwhelming, they should communicate  …as such with their fellow officers and seek help.
+  * All officers are expected to abide by the Oregon State University Code of Conduct in all interactions with each other, all club members, all club activity participants, and everybody they interact with while on club business.
+  * Hackathon Club responsibilities should not detract from an officer's academic performance, physical or mental health, family life, social wellness, etc... If an officer feels their responsibilities are overwhelming, they should communicate as such with their fellow officers and seek help.
   * Officer are strongly encouraged to collaborate on tasks with other officers and with the general club membership.
   * Seek help if you are unsure of anything.
   * Don't be afraid to take chances.
   * Stay in constant communication about what you are working on.
+  * Familiarize yourself with the club's constitution [here](https://github.com/OregonStateHackathonClub/club-docs-and-materials/tree/master/documents)
 
 ### Officer communications
   * General officer communications take place in #officers at osu-hackathon.slack.com
@@ -163,6 +164,7 @@ This is general information for hackathon club management.
    * weekly HackerWeeks coding competitions
    * workshops
    * guest lectures
+   * managing the club's supply of promotional items (e.g. shirts, stickers, hats, etc..)
 
 ### HackerWeeks Coding Competitions
 HackerWeeks coding competitions are meant to provide a fun way for students to sharpen their coding, problem solving, and interview skills while also keeping students and club members engaged with the club inbetween hackathons.
@@ -170,21 +172,23 @@ HackerWeeks coding competitions are meant to provide a fun way for students to s
 #### Platforms
 There are several competetive coding platforms available that may be suitable to host weekly competitions
  * [HackerRank](https://www.hackerrank.com) - this is currently the club's go-to site. It allows for custom competitions with private invite links and ranks the results in various ways
+    * account name: `oregonstatehack`
+    * password: `Jellybean2020!`
+    * [an example contest](https://www.hackerrank.com/hackerweeks-sp2020-weeka)
+    * Scoring must be carefully set up before the contest starts or winners cannot be determined
  * [LeetCode](https://www.leetcode.com)
-
-##### HackerRank
- * HackerRank has been the go-to platform for club competitions
- * The OSU Hackathon Club's login credentials are:
-   * account name: `oregonstatehack`
-   * password: `Jellybean2020!`
- * Here is an example contest: https://www.hackerrank.com/hackerweeks-sp2020-weeka
- * Getting the scoring settings setup correctly is very important before publishing the contest
  
-#### Workshops
+### Workshops
  * OSU Hackathon Club is partnering with MLH hacking to host workshops https://localhost.mlh.io/
  * \[how to plan and host a workshop instructions\]
  
-# Treasurer info
+### Prizes
+ * The OSU Hackathon Club may maintain a supply of club or EECS swag that can be used for HackerWeeks prizes
+ * Small prizes should be used for HackerWeeks contests
+ * The HackerWeeks coordinator should keep the club's supply of swag and work with the treasurer for shipping expenses
+ * Or another officer may agree to take on this responsibility if it is not feasible for the HackerWeeks coordinator
+ 
+# Guide for the Treasurer
 ### General Information
  * This is largely new territory for the club
  * Monitor the club management page and club email closely for notifications about important financial deadlines and etc..
@@ -201,9 +205,25 @@ There are several competetive coding platforms available that may be suitable to
  
 # Guide for the Communications Coordinator
 ### General Information
-
+ * Key responsibilities:
+    * Keep club membership informed of upcoming events, meetings, etc
+    * Market and advertise for upcoming events
+    * Monitor the club's email address
+    * Outreach to other entities (clubs, companies, organizations, etc..) to build mutually beneficial relationships
+ * All club-wide communications should go out in each of these ways:
+    * Ideal-logic email \[add link here\]
+    * [Hackathon Club Slack](osu-hackathon.slack.com) in the #announcements channel
+    * [Unofficial postbacc Slack](osu-cs.slack.com) in the #hackathons channel
+    
+### Resources
+ * Club email (see [club google account](#google-account)) for credentials)
+ * [Club logos and promotional imagery](https://github.com/OregonStateHackathonClub/club-docs-and-materials/tree/master/logos_and_images)
+ 
 # Guide for the Local Chapter Coordinator
 ### General Information
+The Local Chapter Coordinator manages the club's "local hackathon" program. Since the OSU Hackathon Club serves the online postbaccalaureate community of students as well 
+
+### Other OSU organizations that may have interest in hackathons
 
 # Guide for the Historian
 ### General Information
