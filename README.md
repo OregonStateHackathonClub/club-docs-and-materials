@@ -152,22 +152,22 @@ This is general information for hackathon club management.
  * An example of a recent club hackathon can be found [here](https://beaverhacks-fall-2020.devpost.com)
  
 # HackerWeeks Coordinator resources
-##### General Guidelines
+### General Guidelines
  * You are strongly encouraged to set up a committee of club members to assist in these job functions
  * Key responsibilities include:
    * weekly HackerWeeks coding competitions
    * workshops
    * guest lectures
 
-##### HackerWeeks Coding Competitions
+### HackerWeeks Coding Competitions
 HackerWeeks coding competitions are meant to provide a fun way for students to sharpen their coding, problem solving, and interview skills while also keeping students and club members engaged with the club inbetween hackathons.
 
-###### Platforms
+#### Platforms
 There are several competetive coding platforms available that may be suitable to host weekly competitions
  * [HackerRank](https://www.hackerrank.com) - this is currently the club's go-to site. It allows for custom competitions with private invite links and ranks the results in various ways
  * [LeetCode](https://www.leetcode.com)
 
-###### HackerRank
+##### HackerRank
  * HackerRank has been the go-to platform for club competitions
  * The OSU Hackathon Club's login credentials are:
    * account name: `oregonstatehack`
@@ -175,5 +175,5 @@ There are several competetive coding platforms available that may be suitable to
  * Here is an example contest: https://www.hackerrank.com/hackerweeks-sp2020-weeka
  * Getting the scoring settings setup correctly is very important before publishing the contest
  
-###### Workshops
+#### Workshops
  * OSU Hackathon Club is partnering with MLH hacking to host workshops https://localhost.mlh.io/
