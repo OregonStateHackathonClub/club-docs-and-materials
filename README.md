@@ -53,7 +53,13 @@ This is general information for hackathon club management.
   * You are the point-person in charge of planning such that it goes off smoothly
   * You are HIGHLY encouraged to delegate tasks and request help from fellow officers and/or general club membership
   * The quarterly hackathon is the club's core function. See the **What must be ready when the hackathon starts?** section below. Without these things completed, the hackathon cannot occur.
-
+ 
+### Resources
+ * Devpost
+   * Devpost is where the OSU Hackathon Club has traditionally hosted its hackathons https://www.devpost.com
+   * An example of a recent club hackathon can be found [here](https://beaverhacks-fall-2020.devpost.com)
+ * [The Application for Funding Google Doc](https://docs.google.com/forms/d/1LS89VHFKLYTAH06qDRmQ4ZZzsO2-UIiQnDbDtUZwAvs/edit)
+ 
 ### Planning a Hackathon
   * See a recent club hackathon planning to-do such as [this one](https://docs.google.com/document/d/1yuUTvwCdja-jzJ8K7jakQU_VzYhT38uu94wRr-6VewQ/edit)
 #### What must be ready when the hackathon starts (bare essentials)?
@@ -152,11 +158,7 @@ This is general information for hackathon club management.
   </tr>  
  </tbody>
  </table>
- 
-### Devpost
- * Devpost is where the OSU Hackathon Club has traditionally hosted its hackathons https://www.devpost.com
- * An example of a recent club hackathon can be found [here](https://beaverhacks-fall-2020.devpost.com)
- 
+
 # Guide for the HackerWeeks Coordinator
 ### General Information
  * You are strongly encouraged to set up a committee of club members to assist in these job functions
@@ -221,9 +223,28 @@ There are several competetive coding platforms available that may be suitable to
  
 # Guide for the Local Chapter Coordinator
 ### General Information
-The Local Chapter Coordinator manages the club's "local hackathon" program. Since the OSU Hackathon Club serves the online postbaccalaureate community of students as well 
+The Local Chapter Coordinator manages the club's "local hackathon" program. Since the OSU Hackathon Club serves the online postbaccalaureate community of students as well as on-campus students, the Hackathon Club has members spread across the country/globe. Thus, we have a system for funding in place to sponsor localized in-person hackathons.
+##### Responsibilities
+ * Seek out groups interested in hosting club-sponsored hackathons
+ * Set them up with the tools they need for sucess
+    * Devpost
+    * Funding
+ * Serve as a point-of-contact to the club for local hackathon committees
+
+### The program during COVID
+In-person hackathons are not possible or wise right now. But there are still two main ways (that have been devised) for this program to still function.
+ 1. Sponsor "specialized" rather than "localized" hackathons. These would be specialty hackathons put on by those that may have a special type of hackathon in mind.
+ 2. Sponsor localized virtual hackathons. They're still local to a particular area, but they're held remotely
 
 ### Other OSU organizations that may have interest in hackathons
+ * [Linux Users Group](https://lug.oregonstate.edu/#:~:text=What%20is%20the%20Oregon%20State,(FOSS)%20on%20campus.%22)
+ * [ACM-W](https://clubs.oregonstate.edu/acmw)
+ * [ACM](https://groups.engr.oregonstate.edu/acm/)
+ * [Robotics Club](https://osurobotics.club/)
+ * Definitely more...
+ 
+### Resources
+ * [The Application for Funding Google Doc](https://docs.google.com/forms/d/1LS89VHFKLYTAH06qDRmQ4ZZzsO2-UIiQnDbDtUZwAvs/edit)
 
 # Guide for the Historian
 ### General Information
