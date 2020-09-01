@@ -178,6 +178,7 @@ There are several competetive coding platforms available that may be suitable to
     * password: `Jellybean2020!`
     * [an example contest](https://www.hackerrank.com/hackerweeks-sp2020-weeka)
     * Scoring must be carefully set up before the contest starts or winners cannot be determined
+    * [This form](https://docs.google.com/forms/d/19GkSvM68FLftOyGeB-hqthundBdVUTFMgXGeQ0dmtNo/edit) is for participants to register their HackerRank IDs for determining winners
  * [LeetCode](https://www.leetcode.com)
  
 ### Workshops
