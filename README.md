@@ -198,8 +198,10 @@ There are several competetive coding platforms available that may be suitable to
  * The annual funding request occurs in the Spring term
  
 ### Resources
+https://docs.google.com/forms/d/1LS89VHFKLYTAH06qDRmQ4ZZzsO2-UIiQnDbDtUZwAvs/edit
+
 #### Ideal-logic
- * \[add link here\] - Ideal logic is where the club's membership, budgets, activity reports, etc... are managed
+ * [link here](https://apps.ideal-logic.com/osusli) - Ideal logic is where the club's membership, budgets, activity reports, etc... are managed
  * Add more info here about interfacing with ideal-logic as treasurer as we learn it
  
 #### CORE
