@@ -194,35 +194,38 @@ There are several competetive coding platforms available that may be suitable to
 # Guide for the Treasurer
 ### General Information
  * This is largely new territory for the club
- * Monitor the club management page and club email closely for notifications about important financial deadlines and etc..
- * The annual funding request occurs in the Spring term
+ * Update this section of the README as you learn how to perform this role
+ 
+### Key Responsibilities
+ * Check ideal-logic periodically for important funding notifications
+ * Put together and submit annual COE and EECS funding requests in the Spring term
+ * Review and approve all club expenditures
+ * Work with the Hackathon Coordinator to secure funds for quarterly hackathons
+ * Work with the Local Chapter Coordinator to secure funds for local and special purpose hackathons
  
 ### Resources
-https://docs.google.com/forms/d/1LS89VHFKLYTAH06qDRmQ4ZZzsO2-UIiQnDbDtUZwAvs/edit
-
-#### Ideal-logic
- * [link here](https://apps.ideal-logic.com/osusli) - Ideal logic is where the club's membership, budgets, activity reports, etc... are managed
- * Add more info here about interfacing with ideal-logic as treasurer as we learn it
- 
-#### CORE
- * \[add link here\] - This is our interface to the actual funds that the club has
- * I've never been able to get access. But we will....
+ * [Hackathon prize funding request form](https://docs.google.com/forms/d/e/1FAIpQLSfW8lTGsqhSV5mRIfLWD3s0L61HjBDz20tmK_dy9W1RKXlEYA/viewform?usp=sf_link)
+ * [Ideal-logic](https://apps.ideal-logic.com/osusli) - submit funding requests to COE and EECS, report expenditures
+ * [Information about OSU club funding](https://clubs.oregonstate.edu/funding)
  
 # Guide for the Communications Coordinator
 ### General Information
  * Key responsibilities:
     * Keep club membership informed of upcoming events, meetings, etc
     * Market and advertise for upcoming events
-    * Monitor the club's email address
+    * Monitor the club's incoming email (through gmail)
     * Outreach to other entities (clubs, companies, organizations, etc..) to build mutually beneficial relationships
  * All club-wide communications should go out in each of these ways:
-    * Ideal-logic email \[add link here\]
+    * [Ideal-logic](https://apps.ideal-logic.com/osusli) - send emails to all club members
     * [Hackathon Club Slack](osu-hackathon.slack.com) in the #announcements channel
     * [Unofficial postbacc Slack](osu-cs.slack.com) in the #hackathons channel
     
 ### Resources
  * Club email (see [club google account](#google-account)) for credentials)
  * [Club logos and promotional imagery](https://github.com/OregonStateHackathonClub/club-docs-and-materials/tree/master/logos_and_images)
+ * [Ideal-logic](https://apps.ideal-logic.com/osusli) - send emails to all club members
+ * [Hackathon Club Slack](osu-hackathon.slack.com) in the #announcements channel
+ * [Unofficial postbacc Slack](osu-cs.slack.com) in the #hackathons channel
  
 # Guide for the Local Chapter Coordinator
 ### General Information
