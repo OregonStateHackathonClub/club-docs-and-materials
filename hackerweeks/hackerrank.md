@@ -19,7 +19,7 @@ This is your [dashboard](https://www.hackerrank.com/administration/contests) for
 
 
 ## Description
-We chose to create a theme for this quarter but feel free to choose coding challenges at random.
+We chose to create a theme for this quarter but feel free to choose coding challenges at random.  
 `HackerWeeks coding competitions provide a fun way for students to sharpen their programming, interviewing, and problem solving skills while earning a little swag in the process. The focus for the fall 2020 challenges are data structures! Join us each week to compete, learn, and/or review a different data structure. Don't forget to check the osu-hackathon slack channel after each competition to share solutions and congratulate contest winners. Good luck and happy coding!`
 
 ## Prizes
@@ -31,7 +31,7 @@ Two prizes are awarded each competition. One prize is awarded in the beginner's 
 - Participants must be current students at Oregon State University.
 - To qualify for the beginner category, a student has not completed both 261 (Data Structures) and 325 (Algorithms).
 - Students that have taken both 261 and 325 can only win in the advanced category of the competition.
-- Students must fill out this [form](https://bit.ly/3i1N6gW) in order to win.
+- Students must fill out this [form](https://docs.google.com/forms/d/19GkSvM68FLftOyGeB-hqthundBdVUTFMgXGeQ0dmtNo/viewform?) in order to win.
 - Participants must follow all rules from the [OSU Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf).
 - Cheating in any form is not allowed. This includes copy-pasting solutions from elsewhere, using multiple accounts to get better times, and any other methods that the contest administrators deem against the spirit of the competition.
 
