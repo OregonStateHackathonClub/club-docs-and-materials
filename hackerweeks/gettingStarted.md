@@ -36,5 +36,10 @@ Two prizes are awarded each competition. One prize is awarded in the beginner's 
 Each week select two coding challenges: an easy problem for beginners and a medium/hard problem for advanced students. It is possible to create your own challenge through HackerRank but submitting test cases is an arduous process. Be sure to check the codeChallenges.md file for previously used problems.
 
 ## Scoring
+As stated previously, ensure Advanced Settings are set to this configuration otherwise winners cannot be determined.
+* Leaderboard: "default HackerRank leaderboard."
+* Tiebreaker: "sum of time of the first correct submission for all the problems."
+* Time used for tiebreaking: "viewing individual challenge."
+
 
 
