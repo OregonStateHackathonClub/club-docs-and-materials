@@ -171,15 +171,8 @@ This is general information for hackathon club management.
 ### HackerWeeks Coding Competitions
 HackerWeeks coding competitions are meant to provide a fun way for students to sharpen their coding, problem solving, and interview skills while also keeping students and club members engaged with the club inbetween hackathons.
 
-#### Platforms
-There are several competetive coding platforms available that may be suitable to host weekly competitions
- * [HackerRank](https://www.hackerrank.com) - this is currently the club's go-to site. It allows for custom competitions with private invite links and ranks the results in various ways
-    * account name: `oregonstatehack`
-    * password: `Jellybean2020!`
-    * [an example contest](https://www.hackerrank.com/hackerweeks-sp2020-weeka)
-    * Scoring must be carefully set up before the contest starts or winners cannot be determined
-    * [This form](https://docs.google.com/forms/d/19GkSvM68FLftOyGeB-hqthundBdVUTFMgXGeQ0dmtNo/edit) is for participants to register their HackerRank IDs for determining winners
- * [LeetCode](https://www.leetcode.com)
+#### Executing a Coding Competition
+Please see the hackerweeks file folder for detailed information about this responsibility.
  
 ### Workshops
  * OSU Hackathon Club is partnering with MLH hacking to host workshops https://localhost.mlh.io/
