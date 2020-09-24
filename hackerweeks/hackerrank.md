@@ -32,7 +32,7 @@ Two prizes are awarded each competition. One prize is awarded in the beginner's 
 - To qualify for the beginner category, a student has not completed both 261 (Data Structures) and 325 (Algorithms).
 - Students that have taken both 261 and 325 can only win in the advanced category of the competition.
 - Students must fill out this [form](https://bit.ly/3i1N6gW) in order to win.
-- Participants must follow all rules from the OSU Student Code of Conduct.
+- Participants must follow all rules from the [OSU Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf).
 - Cheating in any form is not allowed. This includes copy-pasting solutions from elsewhere, using multiple accounts to get better times, and any other methods that the contest administrators deem against the spirit of the competition.
 
 ## The Coding Challenges
