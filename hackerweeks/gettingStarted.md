@@ -35,5 +35,6 @@ Two prizes are awarded each competition. One prize is awarded in the beginner's 
 ## The Coding Challenges
 Each week select two coding challenges: an easy problem for beginners and a medium/hard problem for advanced students. It is possible to create your own challenge through HackerRank but submitting test cases is an arduous process. Be sure to check the codeChallenges.md file for previously used problems.
 
+## Scoring
 
 
