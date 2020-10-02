@@ -13,8 +13,10 @@ There are several competitive coding platforms available that may be suitable to
 
 ## Setting Up Contests
 This is your [dashboard](https://www.hackerrank.com/administration/contests) for setting up and managing contests. When you create a contest, you will need to fill out the form on HackerRank with markdown content. Feel free to use this boiler plate content or create your own.
+* Contest Name- HackerWeeks Competition: Arrays (as an example, this will become your url)
 * Start time: this is generally set to 12 AM on the first Monday of the second week of the quarter. 
 * End time: this is generally set to 11:59 PM on the subsequent Sunday.
+* FYI: you can create up to four competitions in advance.
 
 ## Description
 We chose to create a theme for this quarter but feel free to choose coding challenges however you prefer.  
