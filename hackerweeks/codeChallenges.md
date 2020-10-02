@@ -13,8 +13,8 @@ Theme: Data Structures
     * Easy: Reverse a Linked List
     * Advanced: Cycle Detection
 4. Queues
-    * Easy: 
-    * Advanced: 
+    * Easy: Castle on the Grid
+    * Advanced: Queries with Fixed Length
 5. Hash Tables
     * Easy: 
     * Advanced: 
