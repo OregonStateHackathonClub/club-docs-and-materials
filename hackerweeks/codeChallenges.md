@@ -7,11 +7,11 @@ Theme: Data Structures
     * Easy: Left Rotation
     * Advanced: Array Manipulation
 2. Stacks
-    * Easy: 
-    * Advanced: 
+    * Easy: Equal Stacks
+    * Advanced: Simple Text Editor
 3. Linked Lists
-    * Easy: 
-    * Advanced:
+    * Easy: Reverse a Linked List
+    * Advanced: Cycle Detection
 4. Queues
     * Easy: 
     * Advanced: 
