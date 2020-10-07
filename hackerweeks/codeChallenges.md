@@ -10,7 +10,7 @@ Theme: Data Structures
     * Easy: Equal Stacks
     * Advanced: Simple Text Editor
 3. Linked Lists
-    * Easy: Reverse a Linked List
+    * Beginner: Reverse a Linked List, Merge two sorted LL
     * Advanced: Cycle Detection
 4. Queues
     * Easy: Castle on the Grid
