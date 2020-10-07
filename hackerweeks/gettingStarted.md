@@ -61,5 +61,5 @@ Good luck and Go Beavs!
 
 ## Announcing the Winners
 After the competition is over, check the rankings of the top three participants for each competition. Cross-check the winners against the form that displays the participants HackerRank username and OSU username. Double check that the winner's of the beginner category selected that category on the form. Post the top three winners of each competition on the Hackathon Club, COE, and Post-Bacc Slack Channels. That may look something like this:
-![That may look something like this:](hackerweeks/images/WinnersAnnouncement.png)
+![](hackerweeks/images/WinnersAnnouncement.png)
 
