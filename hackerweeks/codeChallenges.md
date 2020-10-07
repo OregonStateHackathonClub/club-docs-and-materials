@@ -11,7 +11,7 @@ Theme: Data Structures
     * Advanced: Simple Text Editor
 3. Linked Lists
     * Beginner: Reverse a Linked List, Merge two sorted LL
-    * Advanced: Cycle Detection
+    * Advanced: Find merge point of Two Lists, Cycle Detection
 4. Queues
     * Easy: Castle on the Grid
     * Advanced: Queries with Fixed Length
