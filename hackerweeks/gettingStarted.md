@@ -43,5 +43,21 @@ As stated previously, ensure Advanced Settings are set to this configuration oth
 * Tiebreaker: "sum of time of the first correct submission for all the problems."
 * Time used for tiebreaking: "viewing individual challenge."
 
+## Announcing the Competitions
+Create an announcement and post on the Hackathon Club, COE, and Post-Bacc Slack Channels. You can also post to the OSU online post-bacc subReddit.
+Example announcement:
+
+Hackathon Club presents HackerWeeks Competition: Stacks  
+Gear up for week two of the competition! We had an excellent turnout in week one, great job to all the participants.
+- Our theme this fall is data structures.
+- You'll have a week to complete two coding challenges.
+- Winners of the beginner and advanced categories walk away with some sweet beaver swag!
+- The beginner category includes students who have not completed Algorithms: [Beginner Competition: Linked Lists](https://www.hackerrank.com/administration/contests/edit/117442/overview)
+- Anyone can win the [Advanced Competition: Linked Lists](https://www.hackerrank.com/administration/contests/edit/117443/challenges).
+- In order to win, you must fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdo10z_RCLGy8tYkL20wGgKsNEA5NZF0q0bU4yieDvpGrbA6w/viewform) 
+
+Don't forget to come back to share solutions! 
+Good luck and Go Beavs!
+
 
 
