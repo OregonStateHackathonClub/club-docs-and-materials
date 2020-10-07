@@ -53,7 +53,7 @@ Gear up for week two of the competition! We had an excellent turnout in week one
 - You'll have a week to complete two coding challenges.
 - Winners of the beginner and advanced categories walk away with some sweet beaver swag!
 - The beginner category includes students who have not completed Algorithms: [Beginner Competition: Linked Lists](https://www.hackerrank.com/hackerweeks-competition-linked-lists)
-- Anyone can win the [Advanced Competition: Linked Lists](https://www.hackerrank.com/hackerweeks-competition-linked-lists).
+- Anyone can win the [Advanced Competition: Linked Lists](https://www.hackerrank.com/hackerweeks-competition-queues).
 - In order to win, you must fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdo10z_RCLGy8tYkL20wGgKsNEA5NZF0q0bU4yieDvpGrbA6w/viewform) 
 
 Don't forget to come back to share solutions! 
