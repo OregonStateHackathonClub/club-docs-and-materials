@@ -12,8 +12,8 @@ There are several competitive coding platforms available that may be suitable to
 * This [form](https://docs.google.com/forms/d/19GkSvM68FLftOyGeB-hqthundBdVUTFMgXGeQ0dmtNo/edit) is for participants to register their HackerRank IDs for determining winners.
 
 ## Setting Up Contests
-This is your [dashboard](https://www.hackerrank.com/administration/contests) for setting up and managing contests. When you create a contest, you will need to fill out the form on HackerRank with markdown content. Feel free to use this boiler plate content or create your own.
-* Contest Name- HackerWeeks Competition: Arrays (as an example, this will become your url)
+This is your [dashboard](https://www.hackerrank.com/administration/contests) for setting up and managing contests. When you create a contest, you will need to fill out the form on HackerRank with markdown content. Feel free to use this boiler plate content or create your own. In order to make scoring the contests easier, it is advised to create two separate competitions: beginner and advanced.
+* Contest Name- Beginner Competition: Arrays (as an example, this will become your url)
 * Start time: this is generally set to 12 AM on the first Monday of the second week of the quarter. 
 * End time: this is generally set to 11:59 PM on the subsequent Sunday.
 * FYI: you can create up to four competitions in advance.
@@ -28,14 +28,14 @@ Two prizes are awarded each competition. One prize is awarded in the beginner's 
 
 ## Rules
 - Participants must be current students at Oregon State University.
-- To qualify for the beginner category, a student has not completed both 261 (Data Structures) and 325 (Algorithms).
-- Students that have taken both 261 and 325 can only win in the advanced category of the competition.
+- To win the beginner category, a student must not have completed 325 (Algorithms).
+- Any student may win the advanced category.
 - Students must fill out this [form](https://docs.google.com/forms/d/19GkSvM68FLftOyGeB-hqthundBdVUTFMgXGeQ0dmtNo/viewform?) in order to win.
 - Participants must follow all rules from the [OSU Code of Student Conduct](https://studentlife.oregonstate.edu/sites/studentlife.oregonstate.edu/files/student-conduct-community-standards/Code/code_of_student_conduct_8_14_20.pdf).
 - Cheating in any form is not allowed. This includes copy-pasting solutions from elsewhere, using multiple accounts to get better times, and any other methods that the contest administrators deem against the spirit of the competition.
 
 ## The Coding Challenges
-Each week select two coding challenges: an easy problem for beginners and a medium/hard problem for advanced students. It is possible to create your own challenge through HackerRank but submitting test cases is an arduous process. Be sure to check the codeChallenges.md file for previously used problems.
+Each week select two coding challenges for each competition: easier problems for beginners and medium/hard problems for advanced students. It is possible to create your own challenge through HackerRank but submitting test cases is an arduous process. Be sure to check the codeChallenges.md file for previously used problems.
 
 ## Scoring
 As stated previously, ensure Advanced Settings are set to this configuration otherwise winners cannot be determined.
