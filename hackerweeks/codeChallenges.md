@@ -13,8 +13,8 @@ Theme: Data Structures
     * Beginner: Reverse a Linked List, Merge two sorted LL
     * Advanced: Find merge point of Two Lists, Cycle Detection
 4. Queues
-    * Easy: Castle on the Grid
-    * Advanced: Queries with Fixed Length
+    * Easy: Castle on the Grid, Queue using two stacks
+    * Advanced: Queries with Fixed Length, Truck Tour
 5. Hash Tables
     * Easy: 
     * Advanced: 
