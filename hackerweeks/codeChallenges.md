@@ -16,8 +16,7 @@ Theme: Data Structures
     * Easy: Castle on the Grid, Queue using two stacks
     * Advanced: Queries with Fixed Length, Truck Tour
 5. Hash Tables
-    * Easy: 
-    * Advanced: 
+    * Skipped this week
 6. Binary Trees
     * Easy: 
     * Advanced:
