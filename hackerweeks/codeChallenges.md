@@ -18,8 +18,8 @@ Theme: Data Structures
 5. Hash Tables
     * Skipped this week
 6. Binary Trees
-    * Easy: 
-    * Advanced:
+    * Easy: Lowest Common Ancestor, Height of a Binary Tree
+    * Advanced: Huffman Coding, Swap Nodes [Algo]
 7. Heaps
     * Easy: 
     * Advanced:
