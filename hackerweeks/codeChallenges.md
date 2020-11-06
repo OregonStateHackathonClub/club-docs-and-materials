@@ -21,8 +21,8 @@ Theme: Data Structures
     * Easy: Lowest Common Ancestor, Height of a Binary Tree
     * Advanced: Huffman Coding, Swap Nodes [Algo]
 7. Heaps
-    * Easy: 
-    * Advanced:
+    * Easy: QHEAP1, Jesse and Cookies
+    * Advanced: Find The Running Median, Mean Average Waiting Time
 8. Graphs
     * Easy: 
     * Advanced:
