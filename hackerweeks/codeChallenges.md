@@ -24,8 +24,8 @@ Theme: Data Structures
     * Easy: QHEAP1, Jesse and Cookies
     * Advanced: Find The Running Median, Mean Average Waiting Time
 8. Graphs
-    * Easy: 
-    * Advanced:
+    * Easy: Roads and Libraries, Journey to the Moon
+    * Advanced: Breadth First Search: Shortest Reach, Matrix
 9. Any DS
     * Easy: 
     * Advanced:
