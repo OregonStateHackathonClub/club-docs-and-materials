@@ -2,8 +2,14 @@
 This document was created to help track which coding problems have been previously implemented in HackerWeeks competitions.
 
 ## Winter 2021
-Theme: Algorithms?      
-1. 
+Theme: Algorithms       
+1. Sorting    
+   * Beginner: Insertion Sort Part One, Running Time of Algorithms       
+   * Advanced: The Full Counting Sort, Lily's Homework      
+2. Greedy   
+   * Beginner:           
+   * Advanced:          
+   
 
 
 ## Fall 2020
