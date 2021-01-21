@@ -7,8 +7,17 @@ Theme: Algorithms
    * Beginner: Insertion Sort Part One, Running Time of Algorithms       
    * Advanced: The Full Counting Sort, Lily's Homework      
 2. Greedy   
-   * Beginner:           
+   * Beginner: Grid Challenge, Luck Balance                      
+   * Advanced: Greedy Florist, Cutting Boards            
+3. Searching        
+   * Beginner:       
+   * Advanced:      
+4. Bit Manipulation:                  
+   * Beginner:            
    * Advanced:          
+5. Dynamic Programming:     
+   * Beginner:      
+   * Advanced:      
    
 
 
