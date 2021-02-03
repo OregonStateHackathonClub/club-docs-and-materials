@@ -11,7 +11,7 @@ Theme: Algorithms
    * Advanced: Greedy Florist, Cutting Boards            
 3. Searching        
    * Beginner: Missing Numbers, Sherlock and Array             
-   * Advanced: Sher
+   * Advanced: KnightL on a Chessboard, Count Luck          
 4. Bit Manipulation:                  
    * Beginner:            
    * Advanced:          
