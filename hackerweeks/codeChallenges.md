@@ -10,8 +10,8 @@ Theme: Algorithms
    * Beginner: Grid Challenge, Luck Balance                      
    * Advanced: Greedy Florist, Cutting Boards            
 3. Searching        
-   * Beginner:       
-   * Advanced:      
+   * Beginner: Missing Numbers, Sherlock and Array             
+   * Advanced: Sher
 4. Bit Manipulation:                  
    * Beginner:            
    * Advanced:          
